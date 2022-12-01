@@ -1,4 +1,4 @@
-# GA4_Measurement-Protocol_Python (updated: 2 Dec 22, Fri)
+# GA4 - Measurement Protocol Python Guide _(Updated: 2 Dec 22, Fri)_
 I uploaded a new notebook, "GA4 MP for Offline Stores' Transactions", that further fleshed out and walked through the logic and considerations when dealing with offline Point-of-Sales (POS) systems.
 
 **The guide includes:**
